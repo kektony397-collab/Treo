@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Bike Dashboard",
+  "description": "A futuristic, offline-first Progressive Web App (PWA) to track your bike's speed, fuel, and trip data in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
